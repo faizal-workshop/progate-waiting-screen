@@ -1,4 +1,6 @@
 # Progate Waiting Screen
+<a href="https://opensource.org/license/mit"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" height="24" /></a>
+
 Waiting screen page for the bumper in webinar by Progate Indonesia
 
 ![image](https://github.com/user-attachments/assets/5996f5e4-c232-4698-a226-200be3297018)
